@@ -1,0 +1,54 @@
+includes:
+  - eureka-client.yml
+
+server:
+  port: 8022
+
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: manuelisaacialberto@gmail.com
+    password: ppzunkabtxfjsyyg
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
+  kafka:
+    consumer:
+      bootstrap-servers: localhost:9092
+      group-id: team-wave-group-email-service
+      auto-offset-reset: earliest
+      key-deserializer: org.springframework.kafka.support.serializer.ErrorHandlingDeserializer
+      value-deserializer: org.springframework.kafka.support.serializer.ErrorHandlingDeserializer
+      properties:
+        spring:
+          deserializer:
+            key:
+              delegate:
+                class: org.springframework.kafka.support.serializer.JsonDeserializer
+            value:
+              delegate:
+                class: org.springframework.kafka.support.serializer.JsonDeserializer
+          json:
+            key:
+              default:
+                type: org.apache.kafka.common.serialization.StringDeserializer
+            value:
+              default:
+                type: org.springframework.kafka.support.serializer.JsonDeserializer
+            trusted:
+              packages: "*"
+    producer:
+      bootstrap-servers: localhost:9092
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.springframework.kafka.support.serializer.JsonSerializer
+
+secret:
+  private:
+    key: file:id_rsa
+  public:
+    key: file:id_rsa.pub

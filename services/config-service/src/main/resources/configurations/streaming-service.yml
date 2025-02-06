@@ -1,0 +1,10 @@
+includes:
+  - eureka-client.yml
+
+server:
+  port: 8021
+
+streaming:
+  location: file:storage
+  musics: file:musics
+  clips: file:clips

@@ -1,0 +1,111 @@
+includes:
+  - eureka-client.yml
+
+server:
+  port: 8080
+
+spring:
+  servlet:
+    multipart:
+      max-file-size: 512MB
+      max-request-size: 512MB
+  cloud:
+    gateway:
+      mvc:
+        routes:
+          - id: user-service
+            uri: http://localhost:8001
+            predicates:
+              - Path=/users/**,/recovery/**,/login
+              - Method=GET,POST,PUT,PATCH,DELETE
+          #            location service
+          - id: location-service
+            uri: http://localhost:8002
+            predicates:
+              - Path=/countries/**
+              - Method=GET,POST,PUT,PATCH,DELETE
+          #              artist service
+          - id: artist-service
+            uri: http://localhost:8003
+            predicates:
+              - Path=/artists/**,/phones/**
+              - Method=GET,POST,PUT,PATCH,DELETE
+          #            musical genres service
+          - id: musical-genres-service
+            uri: http://localhost:8004
+            predicates:
+              - Path=/musical-genres/**
+              - Method=GET,POST,PUT,PATCH,DELETE
+          #            musical service
+          - id: music-service
+            uri: http://localhost:8005
+            predicates:
+              - Path=/musics/**,
+              - Method=GET,POST,PUT,PATCH,DELETE
+          #            clip service
+          - id: clip-service
+            uri: http://localhost:8006
+            predicates:
+              - Path=/clips/**
+              - Method=GET,POST,PUT,PATCH,DELETE
+          #            album service
+          - id: album-service
+            uri: http://localhost:8007
+            predicates:
+              - Path=/albums/**,
+              - Method=GET,POST,PUT,PATCH,DELETE
+          #            playlist service
+          - id: playlist-service
+            uri: http://localhost:8008
+            predicates:
+              - Path=/playlists/**,
+              - Method=GET,POST,PUT,PATCH,DELETE
+          #            reaction service
+          - id: reaction-service
+            uri: http://localhost:8009
+            predicates:
+              - Path=/reactions/**,
+              - Method=GET,POST,PUT,PATCH,DELETE
+          #            search service
+          - id: search-service
+            uri: http://localhost:8010
+            predicates:
+              - Path=/search/**,
+              - Method=GET,POST,PUT,PATCH,DELETE
+          #            interation service
+          - id: interation-service
+            uri: http://localhost:8011
+            predicates:
+              - Path=/interations/**,
+              - Method=GET,POST,PUT,PATCH,DELETE
+          #            analytic service
+          - id: analytic-service
+            uri: http://localhost:8012
+            predicates:
+              - Path=/analytics/**,
+              - Method=GET,POST,PUT,PATCH,DELETE
+          #            notification service
+          - id: notification-service
+            uri: http://localhost:8013
+            predicates:
+              - Path=/notifications/**,
+              - Method=GET,POST,PUT,PATCH,DELETE
+
+          #            file service
+          - id: file-service
+            uri: http://localhost:8020
+            predicates:
+              - Path=/resources/**
+              - Method=GET,POST
+          #            streaming service
+          - id: streaming-service
+            uri: http://localhost:8021
+            predicates:
+              - Path=/streaming/**
+              - Method=GET
+
+secret:
+  private:
+    key: file:id_rsa
+  public:
+    key: file:id_rsa.pub
