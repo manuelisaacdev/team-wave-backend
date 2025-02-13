@@ -1,0 +1,58 @@
+includes:
+  - eureka-client.yml
+
+server:
+  port: 8008
+
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5408/playlist_service_team_wave
+    username: manuelisaac
+    password: manuelisaac
+  jpa:
+    show-sql: true
+    database: postgresql
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        show-sql: true
+        format-sql: true
+        default_schema: PUBLIC
+  kafka:
+    consumer:
+      bootstrap-servers: localhost:9092
+      group-id: team-wave-group-playlist-service
+      auto-offset-reset: earliest
+      key-deserializer: org.springframework.kafka.support.serializer.ErrorHandlingDeserializer
+      value-deserializer: org.springframework.kafka.support.serializer.ErrorHandlingDeserializer
+      properties:
+        spring:
+          deserializer:
+            key:
+              delegate:
+                class: org.springframework.kafka.support.serializer.JsonDeserializer
+            value:
+              delegate:
+                class: org.springframework.kafka.support.serializer.JsonDeserializer
+          json:
+            key:
+              default:
+                type: org.apache.kafka.common.serialization.StringDeserializer
+            value:
+              default:
+                type: org.springframework.kafka.support.serializer.JsonDeserializer
+            trusted:
+              packages: "*"
+    producer:
+      bootstrap-servers: localhost:9092
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.springframework.kafka.support.serializer.JsonSerializer
+
+secret:
+  private:
+    key: file:id_rsa
+  public:
+    key: file:id_rsa.pub
