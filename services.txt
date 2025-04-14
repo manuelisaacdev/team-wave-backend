@@ -1,0 +1,21 @@
+user service - 8001
+location service - 8002
+artist service - 8003
+musical gender service - 8004
+music service - 8005
+clip service - 8006
+álbum service - 8007
+playlist service - 8008
+reaction service - 8009
+search service - 8010
+interation service - 8011
+analytic service - 8012
+notification service - 8013
+
+file service - 8020
+streaming service - 8021
+
+gateway service - 8080
+
+config service - 8888
+discovery service - 8761

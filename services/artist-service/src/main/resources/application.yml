@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: artist-service
+  config:
+    import: optional:configserver:http://localhost:8888

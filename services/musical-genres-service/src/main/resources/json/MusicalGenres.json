@@ -1,0 +1,1277 @@
+[
+  {
+    "name": "Rock"
+  },
+  {
+    "name": "Pop"
+  },
+  {
+    "name": "Hip Hop"
+  },
+  {
+    "name": "Electronic Rock"
+  },
+  {
+    "name": "Drum Bass"
+  },
+  {
+    "name": "Jazz"
+  },
+  {
+    "name": "Blues"
+  },
+  {
+    "name": "Reggae"
+  },
+  {
+    "name": "Classical"
+  },
+  {
+    "name": "Electronic"
+  },
+  {
+    "name": "Country"
+  },
+  {
+    "name": "R&B"
+  },
+  {
+    "name": "Soul"
+  },
+  {
+    "name": "Funk"
+  },
+  {
+    "name": "Metal"
+  },
+  {
+    "name": "Punk"
+  },
+  {
+    "name": "Alternative Rock"
+  },
+  {
+    "name": "Indie Rock"
+  },
+  {
+    "name": "Grunge"
+  },
+  {
+    "name": "K-Pop"
+  },
+  {
+    "name": "J-Pop"
+  },
+  {
+    "name": "EDM"
+  },
+  {
+    "name": "Trap"
+  },
+  {
+    "name": "House"
+  },
+  {
+    "name": "Techno"
+  },
+  {
+    "name": "Trance"
+  },
+  {
+    "name": "Dubstep"
+  },
+  {
+    "name": "Drum and Bass"
+  },
+  {
+    "name": "Ska"
+  },
+  {
+    "name": "Afrobeat"
+  },
+  {
+    "name": "Guetto Zouk"
+  },
+  {
+    "name": "Gospel"
+  },
+  {
+    "name": "Fado"
+  },
+  {
+    "name": "Bossa Nova"
+  },
+  {
+    "name": "Samba"
+  },
+  {
+    "name": "Forró"
+  },
+  {
+    "name": "Axé"
+  },
+  {
+    "name": "Maracatu"
+  },
+  {
+    "name": "Sertanejo"
+  },
+  {
+    "name": "Pagode"
+  },
+  {
+    "name": "Tejano"
+  },
+  {
+    "name": "Mariachi"
+  },
+  {
+    "name": "Reggaeton"
+  },
+  {
+    "name": "Cumbia"
+  },
+  {
+    "name": "Tango"
+  },
+  {
+    "name": "Flamenco"
+  },
+  {
+    "name": "Polka"
+  },
+  {
+    "name": "Kuduro"
+  },
+  {
+    "name": "Gqom"
+  },
+  {
+    "name": "Highlife"
+  },
+  {
+    "name": "Calypso"
+  },
+  {
+    "name": "Choro"
+  },
+  {
+    "name": "Ambient"
+  },
+  {
+    "name": "New Age"
+  },
+  {
+    "name": "Chillout"
+  },
+  {
+    "name": "Hardstyle"
+  },
+  {
+    "name": "Gabber"
+  },
+  {
+    "name": "Glitch Hop"
+  },
+  {
+    "name": "Breakbeat"
+  },
+  {
+    "name": "UK Garage"
+  },
+  {
+    "name": "2-Step"
+  },
+  {
+    "name": "Bachata"
+  },
+  {
+    "name": "Bolero"
+  },
+  {
+    "name": "Corridos"
+  },
+  {
+    "name": "Afro House"
+  },
+  {
+    "name": "Deep House"
+  },
+  {
+    "name": "Progressive House"
+  },
+  {
+    "name": "Moombahton"
+  },
+  {
+    "name": "Dancehall"
+  },
+  {
+    "name": "Afropop"
+  },
+  {
+    "name": "Makossa"
+  },
+  {
+    "name": "Soukous"
+  },
+  {
+    "name": "Chanson"
+  },
+  {
+    "name": "Eurodance"
+  },
+  {
+    "name": "Italo Disco"
+  },
+  {
+    "name": "Vaporwave"
+  },
+  {
+    "name": "Synthwave"
+  },
+  {
+    "name": "Darkwave"
+  },
+  {
+    "name": "Post-Punk"
+  },
+  {
+    "name": "Shoegaze"
+  },
+  {
+    "name": "Dream Pop"
+  },
+  {
+    "name": "Math Rock"
+  },
+  {
+    "name": "Post-Rock"
+  },
+  {
+    "name": "Sludge Metal"
+  },
+  {
+    "name": "Doom Metal"
+  },
+  {
+    "name": "Black Metal"
+  },
+  {
+    "name": "Symphonic Metal"
+  },
+  {
+    "name": "Folk Metal"
+  },
+  {
+    "name": "Celtic Music"
+  },
+  {
+    "name": "Medieval Music"
+  },
+  {
+    "name": "Baroque"
+  },
+  {
+    "name": "Opera"
+  },
+  {
+    "name": "Chiptune"
+  },
+  {
+    "name": "8-Bit Music"
+  },
+  {
+    "name": "Hardcore Punk"
+  },
+  {
+    "name": "Crunk"
+  },
+  {
+    "name": "Hyperpop"
+  },
+  {
+    "name": "Lo-fi Hip Hop"
+  },
+  {
+    "name": "Neo-Soul"
+  },
+  {
+    "name": "Future Bass"
+  },
+  {
+    "name": "Electro Swing"
+  },
+  {
+    "name": "Tropical House"
+  },
+  {
+    "name": "Frevo"
+  },
+  {
+    "name": "Carimbó"
+  },
+  {
+    "name": "Kizomba"
+  },
+  {
+    "name": "Funk Carioca"
+  },
+  {
+    "name": "Funk Melody"
+  },
+  {
+    "name": "Trap Funk"
+  },
+  {
+    "name": "Afrotrap"
+  },
+  {
+    "name": "Merengue"
+  },
+  {
+    "name": "Salsa"
+  },
+  {
+    "name": "Boogaloo"
+  },
+  {
+    "name": "Plena"
+  },
+  {
+    "name": "Cajun"
+  },
+  {
+    "name": "Zydeco"
+  },
+  {
+    "name": "Bluegrass"
+  },
+  {
+    "name": "Honky Tonk"
+  },
+  {
+    "name": "Outlaw Country"
+  },
+  {
+    "name": "Roots Reggae"
+  },
+  {
+    "name": "Dub"
+  },
+  {
+    "name": "Rocksteady"
+  },
+  {
+    "name": "Ragga"
+  },
+  {
+    "name": "Dance-Pop"
+  },
+  {
+    "name": "Bubblegum Pop"
+  },
+  {
+    "name": "Electropop"
+  },
+  {
+    "name": "Soft Rock"
+  },
+  {
+    "name": "Pop Punk"
+  },
+  {
+    "name": "Noise Rock"
+  },
+  {
+    "name": "Industrial Rock"
+  },
+  {
+    "name": "Psytrance"
+  },
+  {
+    "name": "Hard Trance"
+  },
+  {
+    "name": "Goa Trance"
+  },
+  {
+    "name": "Happy Hardcore"
+  },
+  {
+    "name": "Tech House"
+  },
+  {
+    "name": "Future Garage"
+  },
+  {
+    "name": "Neue Deutsche Härte"
+  },
+  {
+    "name": "Ethio-Jazz"
+  },
+  {
+    "name": "Sega"
+  },
+  {
+    "name": "Chimurenga"
+  },
+  {
+    "name": "Kwela"
+  },
+  {
+    "name": "Punta"
+  },
+  {
+    "name": "Big Beat"
+  },
+  {
+    "name": "Liquid Funk"
+  },
+  {
+    "name": "Skacore"
+  },
+  {
+    "name": "Art Rock"
+  },
+  {
+    "name": "Tropicália"
+  },
+  {
+    "name": "Manguebeat"
+  },
+  {
+    "name": "Hardvapour"
+  },
+  {
+    "name": "Cloud Rap"
+  },
+  {
+    "name": "Trap Soul"
+  },
+  {
+    "name": "Drill"
+  },
+  {
+    "name": "Emo Rap"
+  },
+  {
+    "name": "Future Funk"
+  },
+  {
+    "name": "Dungeon Synth"
+  },
+  {
+    "name": "Aggrotech"
+  },
+  {
+    "name": "Digital Hardcore"
+  },
+  {
+    "name": "Folktronica"
+  },
+  {
+    "name": "Downtempo"
+  },
+  {
+    "name": "Trip Hop"
+  },
+  {
+    "name": "Psybient"
+  },
+  {
+    "name": "Post-Metal"
+  },
+  {
+    "name": "Melodic Death Metal"
+  },
+  {
+    "name": "Melodic Dubstep"
+  },
+  {
+    "name": "Viking Metal"
+  },
+  {
+    "name": "Drone Metal"
+  },
+  {
+    "name": "Crust Punk"
+  },
+  {
+    "name": "Psychobilly"
+  },
+  {
+    "name": "Baroque Pop"
+  },
+  {
+    "name": "IDM (Intelligent Dance Music)"
+  },
+  {
+    "name": "Shoegoth"
+  },
+  {
+    "name": "Psyprog"
+  },
+  {
+    "name": "Trap Metal"
+  },
+  {
+    "name": "Ragga Jungle"
+  },
+  {
+    "name": "Latin Trap"
+  },
+  {
+    "name": "Orchestral Pop"
+  },
+  {
+    "name": "Jazz Rap"
+  },
+  {
+    "name": "Bossa Nova Jazz"
+  },
+  {
+    "name": "Sufi Music"
+  },
+  {
+    "name": "Qawwali"
+  },
+  {
+    "name": "Ghetto Tech"
+  },
+  {
+    "name": "Techstep"
+  },
+  {
+    "name": "Acid Jazz"
+  },
+  {
+    "name": "Brazilian Funk"
+  },
+  {
+    "name": "Forró Eletrônico"
+  },
+  {
+    "name": "Skweee"
+  },
+  {
+    "name": "New Weird America"
+  },
+  {
+    "name": "Coldwave"
+  },
+  {
+    "name": "Deathgrind"
+  },
+  {
+    "name": "Grime"
+  },
+  {
+    "name": "Hardstep"
+  },
+  {
+    "name": "Bounce Music"
+  },
+  {
+    "name": "Drone Music"
+  },
+  {
+    "name": "Latin Jazz"
+  },
+  {
+    "name": "Neo-Kuduro"
+  },
+  {
+    "name": "Merengue Urbano"
+  },
+  {
+    "name": "Progressive Bluegrass"
+  },
+  {
+    "name": "Crunkcore"
+  },
+  {
+    "name": "Indie Folk"
+  },
+  {
+    "name": "Space Disco"
+  },
+  {
+    "name": "Tuvan Throat Singing"
+  },
+  {
+    "name": "Nederpop"
+  },
+  {
+    "name": "Cumbia Villera"
+  },
+  {
+    "name": "Vallenato"
+  },
+  {
+    "name": "Balkan Brass"
+  },
+  {
+    "name": "Soca"
+  },
+  {
+    "name": "Carnatic Music"
+  },
+  {
+    "name": "Kawaii Future Bass"
+  },
+  {
+    "name": "Slowcore"
+  },
+  {
+    "name": "Barbershop Quartet"
+  },
+  {
+    "name": "Avant-Garde Jazz"
+  },
+  {
+    "name": "Jawaiian"
+  },
+  {
+    "name": "Turbo-Folk"
+  },
+  {
+    "name": "Klezmer"
+  },
+  {
+    "name": "Medieval Folk"
+  },
+  {
+    "name": "Dark Jazz"
+  },
+  {
+    "name": "Techno Viking"
+  },
+  {
+    "name": "Witch House"
+  },
+  {
+    "name": "Semba"
+  },
+  {
+    "name": "Tarraxinha"
+  },
+  {
+    "name": "Celtic Punk"
+  },
+  {
+    "name": "Desert Blues"
+  },
+  {
+    "name": "Blue-Eyed Soul"
+  },
+  {
+    "name": "Gamelan"
+  },
+  {
+    "name": "Progressive Psytrance"
+  },
+  {
+    "name": "Ambient Techno"
+  },
+  {
+    "name": "Melodic Techno"
+  },
+  {
+    "name": "Post-Classical"
+  },
+  {
+    "name": "Mathcore"
+  },
+  {
+    "name": "Ethereal Wave"
+  },
+  {
+    "name": "Nu-Jazz"
+  },
+  {
+    "name": "Space Ambient"
+  },
+  {
+    "name": "Tribal House"
+  },
+  {
+    "name": "Cinematic Orchestra"
+  },
+  {
+    "name": "Bitpop"
+  },
+  {
+    "name": "Dream Punk"
+  },
+  {
+    "name": "Vaportrap"
+  },
+  {
+    "name": "Speedcore"
+  },
+  {
+    "name": "Chaabi"
+  },
+  {
+    "name": "K-Pop Ballad"
+  },
+  {
+    "name": "Afro Psychedelia"
+  },
+  {
+    "name": "Acoustic Punk"
+  },
+  {
+    "name": "Jungle Terror"
+  },
+  {
+    "name": "Drill Music"
+  },
+  {
+    "name": "Skate Punk"
+  },
+  {
+    "name": "Tropical Bass"
+  },
+  {
+    "name": "Retro Soul"
+  },
+  {
+    "name": "Steampunk Music"
+  },
+  {
+    "name": "J-Punk"
+  },
+  {
+    "name": "Desi Hip Hop"
+  },
+  {
+    "name": "Mandopop"
+  },
+  {
+    "name": "Freak Folk"
+  },
+  {
+    "name": "Hardbass"
+  },
+  {
+    "name": "Electroclash"
+  },
+  {
+    "name": "Spoken Word"
+  },
+  {
+    "name": "Pirate Metal"
+  },
+  {
+    "name": "Pagode Japonês"
+  },
+  {
+    "name": "Sunshine Pop"
+  },
+  {
+    "name": "Filk"
+  },
+  {
+    "name": "Samba Rock"
+  },
+  {
+    "name": "Tropicalia"
+  },
+  {
+    "name": "Raï"
+  },
+  {
+    "name": "Brega Funk"
+  },
+  {
+    "name": "Dream Funk"
+  },
+  {
+    "name": "Sovietwave"
+  },
+  {
+    "name": "Indo Jazz"
+  },
+  {
+    "name": "Rap Kreyol"
+  },
+  {
+    "name": "Nu Metalcore"
+  },
+  {
+    "name": "Jazz Fusion"
+  },
+  {
+    "name": "Zouk Bass"
+  },
+  {
+    "name": "Post-Industrial"
+  },
+  {
+    "name": "Blackgaze"
+  },
+  {
+    "name": "Neo-Medieval"
+  },
+  {
+    "name": "Epicore"
+  },
+  {
+    "name": "Zeuhl"
+  },
+  {
+    "name": "Post-Emo"
+  },
+  {
+    "name": "Kawaii Metal"
+  },
+  {
+    "name": "Reggaeton Romântico"
+  },
+  {
+    "name": "Visual Kei"
+  },
+  {
+    "name": "Carnatic Fusion"
+  },
+  {
+    "name": "Wonk Pop"
+  },
+  {
+    "name": "J-Urban"
+  },
+  {
+    "name": "Electroswing"
+  },
+  {
+    "name": "Trap Brasileiro"
+  },
+  {
+    "name": "Lo-fi Hip-Hop"
+  },
+  {
+    "name": "Japanoise"
+  },
+  {
+    "name": "Syntwave"
+  },
+  {
+    "name": "Blackened Death Metal"
+  },
+  {
+    "name": "Post-Punk Revival"
+  },
+  {
+    "name": "Forró Universitário"
+  },
+  {
+    "name": "Afroswing"
+  },
+  {
+    "name": "Power Electronics"
+  },
+  {
+    "name": "Drumstep"
+  },
+  {
+    "name": "Avant-Prog"
+  },
+  {
+    "name": "Nintendocore"
+  },
+  {
+    "name": "Broken Beat"
+  },
+  {
+    "name": "Acid Techno"
+  },
+  {
+    "name": "Rapcore"
+  },
+  {
+    "name": "Chillstep"
+  },
+  {
+    "name": "Electroacoustic"
+  },
+  {
+    "name": "Baile Funk"
+  },
+  {
+    "name": "Jangle Pop"
+  },
+  {
+    "name": "Heavy Psych"
+  },
+  {
+    "name": "Microhouse"
+  },
+  {
+    "name": "Southern Soul"
+  },
+  {
+    "name": "Chamber Pop"
+  },
+  {
+    "name": "Gothabilly"
+  },
+  {
+    "name": "Progressive Breaks"
+  },
+  {
+    "name": "Ambient Dub"
+  },
+  {
+    "name": "Dream Trance"
+  },
+  {
+    "name": "Choral"
+  },
+  {
+    "name": "Nu-Metalcore"
+  },
+  {
+    "name": "Noise Pop"
+  },
+  {
+    "name": "Bubblegum Bass"
+  },
+  {
+    "name": "Hardwave"
+  },
+  {
+    "name": "Djent"
+  },
+  {
+    "name": "Jungle"
+  },
+  {
+    "name": "Proto-Punk"
+  },
+  {
+    "name": "Chamber Folk"
+  },
+  {
+    "name": "Power Metal"
+  },
+  {
+    "name": "Hard Bass"
+  },
+  {
+    "name": "Art Punk"
+  },
+  {
+    "name": "Hard Dance"
+  },
+  {
+    "name": "Indian Classical"
+  },
+  {
+    "name": "Nu-Cumbia"
+  },
+  {
+    "name": "Shibuya-kei"
+  },
+  {
+    "name": "Juke"
+  },
+  {
+    "name": "Tribal Tech"
+  },
+  {
+    "name": "Garage Rock Revival"
+  },
+  {
+    "name": "Nashville Sound"
+  },
+  {
+    "name": "Synthpop Revival"
+  },
+  {
+    "name": "Post-Hardcore"
+  },
+  {
+    "name": "Manele"
+  },
+  {
+    "name": "Shoegaze Revival"
+  },
+  {
+    "name": "Disco"
+  },
+  {
+    "name": "Latin"
+  },
+  {
+    "name": "Indie"
+  },
+  {
+    "name": "New Wave"
+  },
+  {
+    "name": "Hard Rock"
+  },
+  {
+    "name": "Psychedelic Rock"
+  },
+  {
+    "name": "Progressive Rock"
+  },
+  {
+    "name": "Garage Rock"
+  },
+  {
+    "name": "Synthpop"
+  },
+  {
+    "name": "Electro House"
+  },
+  {
+    "name": "Future House"
+  },
+  {
+    "name": "Hardcore"
+  },
+  {
+    "name": "Industrial"
+  },
+  {
+    "name": "Chillwave"
+  },
+  {
+    "name": "Big Room"
+  },
+  {
+    "name": "Lo-fi"
+  },
+  {
+    "name": "Noise"
+  },
+  {
+    "name": "Glitch"
+  },
+  {
+    "name": "Electro"
+  },
+  {
+    "name": "Bassline"
+  },
+  {
+    "name": "Hi-NRG"
+  },
+  {
+    "name": "Minimal"
+  },
+  {
+    "name": "Neurofunk"
+  },
+  {
+    "name": "Darkstep"
+  },
+  {
+    "name": "Footwork"
+  },
+  {
+    "name": "Bounce"
+  },
+  {
+    "name": "Complextro"
+  },
+  {
+    "name": "Progressive Trance"
+  },
+  {
+    "name": "Uplifting Trance"
+  },
+  {
+    "name": "Melodic Trance"
+  },
+  {
+    "name": "Dark Psytrance"
+  },
+  {
+    "name": "Suomisaundi"
+  },
+  {
+    "name": "Full-On"
+  },
+  {
+    "name": "Chillgressive"
+  },
+  {
+    "name": "Neurotrance"
+  },
+  {
+    "name": "Dance Pop"
+  },
+  {
+    "name": "Worldbeat"
+  },
+  {
+    "name": "Ethnic Electronica"
+  },
+  {
+    "name": "Afrobeats"
+  },
+  {
+    "name": "Socca"
+  },
+  {
+    "name": "Synth Funk"
+  },
+  {
+    "name": "Dance Punk"
+  },
+  {
+    "name": "Nu Disco"
+  },
+  {
+    "name": "Dark Disco"
+  },
+  {
+    "name": "Rap"
+  },
+  {
+    "name": "Rap Rock"
+  },
+  {
+    "name": "Rap Metal"
+  },
+  {
+    "name": "Boom Bap"
+  },
+  {
+    "name": "Mumble Rap"
+  },
+  {
+    "name": "Lofi Hip Hop"
+  },
+  {
+    "name": "Southern Hip Hop"
+  },
+  {
+    "name": "East Coast Hip Hop"
+  },
+  {
+    "name": "West Coast Hip Hop"
+  },
+  {
+    "name": "Celtic"
+  },
+  {
+    "name": "Folk"
+  },
+  {
+    "name": "Roots"
+  },
+  {
+    "name": "Ethno Jazz"
+  },
+  {
+    "name": "Smooth Jazz"
+  },
+  {
+    "name": "Soul Blues"
+  },
+  {
+    "name": "Country Blues"
+  },
+  {
+    "name": "Delta Blues"
+  },
+  {
+    "name": "Texas Blues"
+  },
+  {
+    "name": "Chicago Blues"
+  },
+  {
+    "name": "Boogie Woogie"
+  },
+  {
+    "name": "Ragtime"
+  },
+  {
+    "name": "Hawaiian"
+  },
+  {
+    "name": "Glam Metal"
+  },
+  {
+    "name": "Death Metal"
+  },
+  {
+    "name": "Gothic Metal"
+  },
+  {
+    "name": "Speed Metal"
+  },
+  {
+    "name": "Thrash Metal"
+  },
+  {
+    "name": "Screamo"
+  },
+  {
+    "name": "Melodic Hardcore"
+  },
+  {
+    "name": "Dark Folk"
+  },
+  {
+    "name": "Neoclassical"
+  },
+  {
+    "name": "Minimalist"
+  },
+  {
+    "name": "Serialism"
+  },
+  {
+    "name": "Twelve-tone"
+  },
+  {
+    "name": "Romantic"
+  },
+  {
+    "name": "Modernist"
+  },
+  {
+    "name": "Postmodernist"
+  },
+  {
+    "name": "Experimental"
+  },
+  {
+    "name": "Free Jazz"
+  },
+  {
+    "name": "Experimental Rock"
+  },
+  {
+    "name": "Country Pop"
+  },
+  {
+    "name": "Bro Country"
+  },
+  {
+    "name": "Punk Rock"
+  },
+  {
+    "name": "Anarcho Punk"
+  },
+  {
+    "name": "Post-Grunge"
+  },
+  {
+    "name": "Grindcore"
+  },
+  {
+    "name": "Cybergrind"
+  },
+  {
+    "name": "Neurohop"
+  }
+]

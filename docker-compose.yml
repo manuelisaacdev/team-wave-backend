@@ -1,0 +1,265 @@
+services:
+  # User Service Data Base
+  user_postgres:
+    container_name: user_service_postgres
+    image: postgres
+    environment:
+      POSTGRES_USER: manuelisaac
+      POSTGRES_PASSWORD: manuelisaac
+      POSTGRES_DB: user_service_team_wave
+      PGDATA: /var/lib/postgresql/data
+    volumes:
+      - user_postgres:/var/lib/postgresql/data
+    ports:
+      - 5401:5432
+    networks:
+      - microservices-net
+    restart: unless-stopped
+
+  # Location Service Data Base
+  location_postgres:
+    container_name: location_service_postgres
+    image: postgres
+    environment:
+      POSTGRES_USER: manuelisaac
+      POSTGRES_PASSWORD: manuelisaac
+      POSTGRES_DB: location_service_team_wave
+      PGDATA: /var/lib/postgresql/data
+    volumes:
+      - location_postgres:/var/lib/postgresql/data
+    ports:
+      - 5402:5432
+    networks:
+      - microservices-net
+    restart: unless-stopped
+
+  # Artist Service Data Base
+  artist_postgres:
+    container_name: artist_service_postgres
+    image: postgres
+    environment:
+      POSTGRES_USER: manuelisaac
+      POSTGRES_PASSWORD: manuelisaac
+      POSTGRES_DB: artist_service_team_wave
+      PGDATA: /var/lib/postgresql/data
+    volumes:
+      - artist_postgres:/var/lib/postgresql/data
+    ports:
+      - 5403:5432
+    networks:
+      - microservices-net
+    restart: unless-stopped
+
+  # Musical Genre Service Data Base
+  musical_genre_postgres:
+    container_name: musical_genre_service_postgres
+    image: postgres
+    environment:
+      POSTGRES_USER: manuelisaac
+      POSTGRES_PASSWORD: manuelisaac
+      POSTGRES_DB: musical_genre_service_team_wave
+      PGDATA: /var/lib/postgresql/data
+    volumes:
+      - musical_genre_postgres:/var/lib/postgresql/data
+    ports:
+      - 5404:5432
+    networks:
+      - microservices-net
+    restart: unless-stopped
+
+  # Music Service Data Base
+  music_postgres:
+    container_name: music_service_postgres
+    image: postgres
+    environment:
+      POSTGRES_USER: manuelisaac
+      POSTGRES_PASSWORD: manuelisaac
+      POSTGRES_DB: music_service_team_wave
+      PGDATA: /var/lib/postgresql/data
+    volumes:
+      - music_postgres:/var/lib/postgresql/data
+    ports:
+      - 5405:5432
+    networks:
+      - microservices-net
+    restart: unless-stopped
+
+  # Clip Service Data Base
+  clip_postgres:
+    container_name: clip_service_postgres
+    image: postgres
+    environment:
+      POSTGRES_USER: manuelisaac
+      POSTGRES_PASSWORD: manuelisaac
+      POSTGRES_DB: clip_service_team_wave
+      PGDATA: /var/lib/postgresql/data
+    volumes:
+      - clip_postgres:/var/lib/postgresql/data
+    ports:
+      - 5406:5432
+    networks:
+      - microservices-net
+    restart: unless-stopped
+
+  # Album Service Data Base
+  album_postgres:
+    container_name: album_service_postgres
+    image: postgres
+    environment:
+      POSTGRES_USER: manuelisaac
+      POSTGRES_PASSWORD: manuelisaac
+      POSTGRES_DB: album_service_team_wave
+      PGDATA: /var/lib/postgresql/data
+    volumes:
+      - album_postgres:/var/lib/postgresql/data
+    ports:
+      - 5407:5432
+    networks:
+      - microservices-net
+    restart: unless-stopped
+
+  # Playlist Service Data Base
+  playlist_postgres:
+    container_name: playlist_service_postgres
+    image: postgres
+    environment:
+      POSTGRES_USER: manuelisaac
+      POSTGRES_PASSWORD: manuelisaac
+      POSTGRES_DB: playlist_service_team_wave
+      PGDATA: /var/lib/postgresql/data
+    volumes:
+      - playlist_postgres:/var/lib/postgresql/data
+    ports:
+      - 5408:5432
+    networks:
+      - microservices-net
+    restart: unless-stopped
+
+  # Reaction Service Data Base
+  reaction_postgres:
+    container_name: reaction_service_postgres
+    image: postgres
+    environment:
+      POSTGRES_USER: manuelisaac
+      POSTGRES_PASSWORD: manuelisaac
+      POSTGRES_DB: reaction_service_team_wave
+      PGDATA: /var/lib/postgresql/data
+    volumes:
+      - reaction_postgres:/var/lib/postgresql/data
+    ports:
+      - 5409:5432
+    networks:
+      - microservices-net
+    restart: unless-stopped
+
+  # Search Service Data Base
+#  search_postgres:
+#    container_name: search_service_postgres
+#    image: postgres
+#    environment:
+#      POSTGRES_USER: manuelisaac
+#      POSTGRES_PASSWORD: manuelisaac
+#      POSTGRES_DB: search_service_team_wave
+#      PGDATA: /var/lib/postgresql/data
+#    volumes:
+#      - search_postgres:/var/lib/postgresql/data
+#    ports:
+#      - 5410:5432
+#    networks:
+#      - microservices-net
+#    restart: unless-stopped
+
+  # Search Service Data Base
+#  interation_postgres:
+#    container_name: interation_service_postgres
+#    image: postgres
+#    environment:
+#      POSTGRES_USER: manuelisaac
+#      POSTGRES_PASSWORD: manuelisaac
+#      POSTGRES_DB: interation_service_team_wave
+#      PGDATA: /var/lib/postgresql/data
+#    volumes:
+#      - interation_postgres:/var/lib/postgresql/data
+#    ports:
+#      - 5411:5432
+#    networks:
+#      - microservices-net
+#    restart: unless-stopped
+
+  # Interaction Service Data Base
+#  analytic_postgres:
+#    container_name: analytic_service_postgres
+#    image: postgres
+#    environment:
+#      POSTGRES_USER: manuelisaac
+#      POSTGRES_PASSWORD: manuelisaac
+#      POSTGRES_DB: analytic_service_team_wave
+#      PGDATA: /var/lib/postgresql/data
+#    volumes:
+#      - analytic_postgres:/var/lib/postgresql/data
+#    ports:
+#      - 5412:5432
+#    networks:
+#      - microservices-net
+#    restart: unless-stopped
+
+  # Notification Service Data Base
+#  notification_postgres:
+#    container_name: notification_service_postgres
+#    image: postgres
+#    environment:
+#      POSTGRES_USER: manuelisaac
+#      POSTGRES_PASSWORD: manuelisaac
+#      POSTGRES_DB: notification_service_team_wave
+#      PGDATA: /var/lib/postgresql/data
+#    volumes:
+#      - notification_postgres:/var/lib/postgresql/data
+#    ports:
+#      - 5413:5432
+#    networks:
+#      - microservices-net
+#    restart: unless-stopped
+
+  pgadmin:
+    container_name: ms_pgadmin
+    image: dpage/pgadmin4
+    environment:
+      PGADMIN_DEFAULT_EMAIL: manuelisaac@gmail.com
+      PGADMIN_DEFAULT_PASSWORD: manuelisaac
+      PGADMIN_CONFIG_SERVICE_MODE: 'False'
+    volumes:
+      - pgadmin:/var/lib/pgadmin
+    ports:
+      - 5050:80
+    networks:
+      - microservices-net
+    restart: unless-stopped
+
+  kafka:
+    image: apache/kafka:latest
+    container_name: broker
+#    volumes:
+#      - kafka:/var/lib/kafka/data
+    ports:
+      - 9092:9092
+    networks:
+      - microservices-net
+
+networks:
+  microservices-net:
+    driver: bridge
+
+volumes:
+  pgadmin:
+  user_postgres:
+  location_postgres:
+  artist_postgres:
+  musical_genre_postgres:
+  music_postgres:
+  clip_postgres:
+  album_postgres:
+  playlist_postgres:
+  reaction_postgres:
+#  search_postgres:
+#  analytic_postgres:
+#  notification_postgres:

@@ -1,0 +1,246 @@
+[
+  {
+    "name": "Chill Vibes",
+    "description": "Relaxe e aproveite as melhores músicas tranquilas."
+  },
+  {
+    "name": "Workout Boost",
+    "description": "Músicas energéticas para motivar seus treinos."
+  },
+  {
+    "name": "Romantic Hits",
+    "description": "Canções românticas para momentos especiais."
+  },
+  {
+    "name": "Top 100 Hits",
+    "description": "As músicas mais tocadas do momento em um só lugar."
+  },
+  {
+    "name": "Indie Essentials",
+    "description": "Os melhores sons do universo indie."
+  },
+  {
+    "name": "Throwback Classics",
+    "description": "Clássicos que marcaram épocas."
+  },
+  {
+    "name": "Party Anthems",
+    "description": "As melhores faixas para agitar qualquer festa."
+  },
+  {
+    "name": "Acoustic Sessions",
+    "description": "Músicas em versão acústica para relaxar."
+  },
+  {
+    "name": "Morning Boost",
+    "description": "Acorde com energia com essa seleção."
+  },
+  {
+    "name": "Jazz & Chill",
+    "description": "O melhor do jazz para um momento relaxante."
+  },
+  {
+    "name": "Road Trip",
+    "description": "Trilhas sonoras perfeitas para sua próxima viagem."
+  },
+  {
+    "name": "Summer Hits",
+    "description": "O som do verão para animar seu dia."
+  },
+  {
+    "name": "Focus Beats",
+    "description": "Instrumentais perfeitos para concentração."
+  },
+  {
+    "name": "Rock Legends",
+    "description": "Os maiores clássicos do rock."
+  },
+  {
+    "name": "K-Pop Hits",
+    "description": "Os maiores sucessos do mundo do K-Pop."
+  },
+  {
+    "name": "Electronic Essentials",
+    "description": "As melhores batidas eletrônicas para sua playlist."
+  },
+  {
+    "name": "Rap Bangers",
+    "description": "Os melhores hits do rap atual."
+  },
+  {
+    "name": "Country Roads",
+    "description": "Músicas country para uma viagem pelo interior."
+  },
+  {
+    "name": "Relaxing Piano",
+    "description": "Trilhas de piano para momentos de paz."
+  },
+  {
+    "name": "Latin Fiesta",
+    "description": "Ritmos latinos para dançar e se divertir."
+  },
+  {
+    "name": "Classical Moments",
+    "description": "As obras mais icônicas da música clássica."
+  },
+  {
+    "name": "Metal Madness",
+    "description": "O melhor do heavy metal em um só lugar."
+  },
+  {
+    "name": "Hip-Hop Essentials",
+    "description": "Os maiores sucessos do hip-hop de todos os tempos."
+  },
+  {
+    "name": "Afrobeats Vibes",
+    "description": "O melhor dos ritmos africanos modernos."
+  },
+  {
+    "name": "Golden Oldies",
+    "description": "As músicas antigas que continuam a brilhar."
+  },
+  {
+    "name": "Kids' Favorites",
+    "description": "As músicas mais divertidas para crianças."
+  },
+  {
+    "name": "Relax & Meditate",
+    "description": "Trilhas sonoras para relaxamento e meditação."
+  },
+  {
+    "name": "Pop Icons",
+    "description": "Os maiores sucessos das lendas do pop."
+  },
+  {
+    "name": "Festival Anthems",
+    "description": "As músicas que dominam os festivais ao redor do mundo."
+  },
+  {
+    "name": "80s Flashback",
+    "description": "Reviva os maiores hits dos anos 80."
+  },
+  {
+    "name": "90s Party",
+    "description": "As músicas que marcaram a década de 90."
+  },
+  {
+    "name": "Reggae Relax",
+    "description": "O melhor do reggae para relaxar e curtir."
+  },
+  {
+    "name": "Lo-fi Beats",
+    "description": "Beats tranquilos para estudar ou relaxar."
+  },
+  {
+    "name": "Soulful Sounds",
+    "description": "A magia do soul em uma playlist."
+  },
+  {
+    "name": "Disney Magic",
+    "description": "As trilhas mais icônicas dos filmes da Disney."
+  },
+  {
+    "name": "Epic Movie Scores",
+    "description": "As trilhas sonoras mais épicas do cinema."
+  },
+  {
+    "name": "Gaming Tracks",
+    "description": "Músicas perfeitas para acompanhar suas sessões de jogo."
+  },
+  {
+    "name": "Holiday Cheer",
+    "description": "Músicas para celebrar as festas de fim de ano."
+  },
+  {
+    "name": "Urban Hits",
+    "description": "Os maiores sucessos da música urbana."
+  },
+  {
+    "name": "Ambient Escape",
+    "description": "Sons ambientais para relaxamento total."
+  },
+  {
+    "name": "Blues Legends",
+    "description": "Os maiores artistas do blues em uma playlist."
+  },
+  {
+    "name": "Tropical House",
+    "description": "Vibes tropicais para animar seu dia."
+  },
+  {
+    "name": "Underground Hits",
+    "description": "Os melhores artistas da cena underground."
+  },
+  {
+    "name": "Hard Rock Heroes",
+    "description": "As lendas do hard rock reunidas."
+  },
+  {
+    "name": "Cinematic Dreams",
+    "description": "Músicas que transportam você para outro mundo."
+  },
+  {
+    "name": "Feel-Good Tunes",
+    "description": "Músicas que elevam seu humor."
+  },
+  {
+    "name": "Night Chill",
+    "description": "O som perfeito para uma noite tranquila."
+  },
+  {
+    "name": "Festival Beats",
+    "description": "As batidas que dominam os maiores festivais do mundo."
+  },
+  {
+    "name": "World Music Journey",
+    "description": "Explore os ritmos do mundo."
+  },
+  {
+    "name": "Sad Songs",
+    "description": "Canções para momentos reflexivos."
+  },
+  {
+    "name": "Happy Hour",
+    "description": "Trilhas sonoras perfeitas para momentos de alegria."
+  },
+  {
+    "name": "Chill at Sunset",
+    "description": "Músicas suaves para acompanhar o pôr do sol."
+  },
+  {
+    "name": "Morning Bliss",
+    "description": "Comece seu dia com energia e positividade."
+  },
+  {
+    "name": "Epic Gaming Tracks",
+    "description": "Trilhas sonoras emocionantes para gamers."
+  },
+  {
+    "name": "Rainy Day Jazz",
+    "description": "Sons de jazz perfeitos para dias chuvosos."
+  },
+  {
+    "name": "Festival Fever",
+    "description": "Sinta a energia dos maiores festivais do mundo."
+  },
+  {
+    "name": "Soulful Sundays",
+    "description": "Melodias relaxantes para tardes de domingo."
+  },
+  {
+    "name": "Workout Warriors",
+    "description": "Aumente sua motivação com essas faixas potentes."
+  },
+  {
+    "name": "Road Trip Classics",
+    "description": "O combustível sonoro para sua próxima viagem."
+  },
+  {
+    "name": "Dream Pop Delights",
+    "description": "Explore os sons etéreos do dream pop."
+  },
+  {
+    "name": "Island Vibes",
+    "description": "Ritmos tropicais para uma vibe relaxante."
+  }
+]
